@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Fetch-Mail:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Fetch_Mail_jar</output-path>
+    <root id="archive" name="Fetch-Mail.jar">
+      <element id="module-output" name="Fetch-Mail" />
+      <element id="module-output" name="HW1" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/dpaukov/combinatoricslib3/3.1.1/combinatoricslib3-3.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.7.2/jsoup-1.7.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
